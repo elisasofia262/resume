@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Elisa Sofia Sahim - Resume</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon2-bg.png" rel="icon">
+  <link href="assets/img/favicon2-bg.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+
+    <div class="container-fluid d-flex justify-content-between align-items-center">
+
+      <h1 class="logo me-auto me-lg-0"><a href="index.php">ELISA</a></h1>
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a class="active" href="resume.php">Resume</a></li>
+          <!-- <li><a href="portfolio.php">Portfolio</a></li> -->
+          <li><a href="services.php">Resources</a></li>
+          <li><a href="contact.php">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+
+    </div>
+
+  </header>
+  <!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+          <p>Here lies my employment history. I started working as early as 18 years old, from brewing coffee daily for customers, to brewing my own coffee daily. From dealing with customers making payment transactions, to currently able to help develop a fully functional payment transaction systems.</p>
+        </div>
+
+        <div class="row">
+          <!-- <div class="col-lg-6">
+            <h3 class="resume-title">Certified Coffee Master Barista</h3>
+            <div class="resume-item pb-0">
+              <h4>Alice Barkley</h4>
+              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <p>
+              <ul>
+                <li>Portland par 127,Orlando, FL</li>
+                <li>(123) 456-7891</li>
+                <li>alice.barkley@example.com</li>
+              </ul>
+              </p>
+            </div>
+
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Master of Fine Arts &amp; Graphic Design</h4>
+              <h5>2015 - 2016</h5>
+              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+            </div>
+            <div class="resume-item">
+              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
+              <h5>2010 - 2014</h5>
+              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+            </div>
+          </div> -->
+          <div class="col-lg-3"></div>
+          <div class="col-lg-6">
+            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>Certified Coffee Master Barista</h4>
+              <h5>August 2018 — September 2020</h5>
+              <p><em>Berjaya Starbucks Sdn Bhd </em></p>
+              <p>
+              <ul>
+                <li>Provide customer service, field customer complaints or questions.</li>
+                <li>Maintain good customer relations </li>
+                <li>Adhered to all sanitation and health guidelines</li>
+                <li>Operate cash registers and credit card machines</li>
+              </ul>
+              </p>
+            </div>
+            <div class="resume-item">
+              <h4>Intern Web Developer</h4>
+              <h5>September 2020 — December 2020</h5>
+              <p><em>AIME Healthcare Sdn Bhd</em></p>
+              <p>
+              <ul>
+                <li>Planned, developed, tested, deployed, and maintained web applications.</li>
+                <li>Served as a dedicated and supportive Intern in a fast-paced environment.</li>
+                <li>Worked with web staff to develop more invigorating web content.</li>
+                <li>Assisted Content Marketing Associates with all administrative duties associated with web content.</li>
+              </ul>
+              </p>
+            </div>
+            <div class="resume-item">
+              <h4>Junior Web Developer</h4>
+              <h5>January 2021 — April 2022</h5>
+              <p><em>AIME Healthcare Sdn Bhd</em></p>
+              <p>
+              <ul>
+                <li>Planned, developed, tested, deployed, and maintained web applications.</li>
+                <li>Brought forth vast experience designing and developing responsive design websites.</li>
+                <li>Effectively translated client requirements into application designs and system requirements.</li>
+                <li>Effetively multitasked and worked well with internal and external teams.</li>
+                <li>Brought forth a passion and dedication to software development.</li>
+              </ul>
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-3"></div>
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <?php include 'includes/footer.php'; ?>
+  <!-- End  Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
